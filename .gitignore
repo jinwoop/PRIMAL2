@@ -75,6 +75,7 @@
 *.PDF
 .git/
 auto/
+.envrc
 
 # Learning #
 ###################
